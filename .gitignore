@@ -64,3 +64,4 @@ typings/
 .env
 log.txt
 data.JSON
+errorlog.txt
